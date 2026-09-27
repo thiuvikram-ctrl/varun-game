@@ -1,0 +1,8 @@
+{
+  "name": "WARZONE: SPECIAL FORCES",
+  "description": "Tactical military shooter featuring male operators, customizable weapon skins, combat vehicles, battle royale grounds, shooting range, diamond top-up store, and squad system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
